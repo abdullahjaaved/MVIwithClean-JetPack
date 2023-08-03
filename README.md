@@ -1,1 +1,1 @@
-# MVIwithClean-JetPack
+# MVI with Clean Architecture - JetPack Compose
